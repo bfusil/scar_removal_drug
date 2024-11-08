@@ -3,32 +3,52 @@
   <name>Scar Removal Drug</name>
   <author>Pikes</author>
   <supportedVersions>
-    <li>1.0</li>
-    <li>1.1</li>
+	<li>1.1</li>
 	<li>1.2</li>
 	<li>1.3</li>
+	<li>1.4</li>
+	<li>1.5</li>
   </supportedVersions>
   <packageId>Pikes.ScarRemovalDrug</packageId>
-  <description><![CDATA[<b>A simple mod which add a new kind of drug for scar removal after some time.</b>
+  <description><![CDATA[<b>A simple mod adding a new drug for healing permanent injuries or chronic conditions ailments after some time.</b>
 
-<b>How to make?</b>
-Research "Fibropolygen production" (1000 research points, behind "Drug production").
-One pill of Fibropolygen is made with 1 Luciferium and 2 Neutroamine at a Drug Lab production bench.
-Fibropolygen can also be bought for a base market value of 105 silver.
+<b>What is this new drug exactly?</b>
 
-<b>How to use?</b>
-One pill of Fibropolygen every ten days until complete removal of scars and old wounds, which can take between 15 to 30 in-game days per injury.
+It's called "Fibrocerium" (from fibrosis, cerebrum, and luciferium) and can heal one scar, old wound or one of the chronic condition ailments: Alzheimer's, artery blockage, asthma, bad back, blindness, cataract, carcinoma, dementia, frail and hearing loss in 15 to 30 days.
 
-<b>Why this mod?</b>
-Do you have colonists with something scarred and don't want to go the no return luciferium way but ache to clear their health tab anyway? Well, I do.
-This mod reproduces the permanent injuries removal effect of luciferium without the improved stats and withdrawal symptoms.
-(The name comes from Fibrosis, Polymer and Collagen.)
+<b>How to buy or make fibrocerium?</b>
 
-Safe to install or remove with ongoing save.
+Fibrocerium can be bought from faction bases and exotic goods traders for a market value of 385 silver. The trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is <b>540 silver</b>. That's the cost of fibrocerium, <b>when bought</b>, to heal one permanent injury or chronic condition ailment.
+
+Research "Fibrocerium production" (600 research points, behind "Drug production").
+A pill of fibrocerium is made with 1 luciferium, 2 glitterworld medicine, and 10 neutroamines at a drug lab production bench with a minimum skilled colonist of 3 in intellectual and crafting.
+The market value of those products is 230 silver (70 for luciferium, 100 for glitterworld medicine, and 60 for twelve neutroamines), but the trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is <b>322 silver</b>. That's the cost of fibrocerium, <b>when produced</b>, to heal one permanent injury or chronic condition ailment.
+
+It's a quick way to heal scar, old wound and chronic conditions ailments. It can be bought at any moment or produced at the start of the industrial tech level, needing only "Drug production" as a prerequisite.
+
+<b>How to use fibrocerium?</b>
+
+One pill of fibrocerium to heal one permanent injury or chronic condition ailment in 15 to 30 days.
+Fibrocerium will also provide partial and lesser enhancing effects of luciferium while it's active in the body:
+* Improved consciousness (+5%)
+* Reduced pain (×90%)
+
+<b>Fibrocerium always causes an addiction</b>. But it doesn't built-up tolerance and cannot cause an overdose.
+With the addiction comes the need to take fibrocerium. By default, the "Social drugs" drug policy will automatically order the colonist to take one pill of fibrocerium, if it's possible, below the 10% need mark, which is after 27 days of the previous take.
+It takes 45 days to overcome the addiction. If a pawn takes another pill of fibrocerium while under the addiction, it will progress by 33% (on the UI the addiction stops at 100%, so it will regress by 33% there).
+
+When a pawn stops taking pills of fibrocerium, and the need comes to 0%, then the withdrawal phase will start. Below is the list of withdrawal symptoms:
+* Impaired consciousness (90% max)
+* Serious pain (+15%, normally comes with −10 mood penalty)
+* Increased Social Fight Chance (+200%)
+<b>The withdrawal phase will end after 15 days</b> but can last longer if several fibrocerium pills were taken in a short time.
+
+<b>About the mod development</b>
+
+Safe to install or remove with an ongoing save.
 Should be compatible with everything.]]>
   </description>
   <loadAfter>
     <li>Ludeon.RimWorld</li>
-    <li>Ludeon.RimWorld.Royalty</li>
   </loadAfter>
 </ModMetaData>

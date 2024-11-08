@@ -1,16 +1,65 @@
-[b]A simple mod which add a new kind of drug for scar removal after some time.[/b]
+[b]A simple mod adding a new drug for healing permanent injuries or chronic conditions ailments after some time.[/b]
 
-[b]How to make?[/b]
-Research "Fibropolygen production" (1000 research points, behind "Drug production").
-One pill of Fibropolygen is made with: 1 Luciferium and 1 Neutroamine at a Drug Lab production bench.
+[h2]What is this new drug exactly?[/h2]
 
-[b]How to use?[/b]
-One pill of Fibropolygen every ten days until complete removal of scars and old wounds, which can take between 15 to 30 in-game days per injury.
+It's called "Fibrocerium" (from fibrosis, cerebrum, and luciferium) and can heal one scar, old wound or one of the chronic condition ailments: Alzheimer's, artery blockage, asthma, bad back, blindness, cataract, carcinoma, dementia, frail and hearing loss in 15 to 30 days.
 
-[b]Why this mod?[/b]
-Do you have colonists with something scarred and don't want to go the no return luciferium way but ache to clear their health tab anyway? Well, I do.
-This mod reproduces the permanent injuries removal effect of luciferium without the improved stats and withdrawal symptoms.
-(The name comes from Fibrosis, Polymer and Collagen.)
+[h2]How to buy and make fibrocerium?[/h2]
 
-Safe to install or remove with ongoing save.
+Fibrocerium can be bought from faction bases and exotic goods traders for a market value of 385 silver. The trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is [b]540 silver[/b]. That's the cost of fibrocerium, [b]when bought[/b], to heal one permanent injury or chronic condition ailment.
+
+Research "Fibrocerium production" (600 research points, behind "Drug production").
+A pill of fibrocerium is made with 1 luciferium, 2 glitterworld medicine and 10 neutroamines at a drug lab production bench with a minimum skilled colonist of 3 in intellectual and crafting.
+The market value of those products is 230 silver (70 for luciferium, 100 for glitterworld medicine, and 60 for twelve neutroamines), but the trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is [b]322 silver[/b]. That's the cost of fibrocerium, [b]when produced[/b], to heal one permanent injury or chronic condition ailment.
+
+It's a quick way to heal scar, old wound and chronic conditions ailments. It can be bought at any moment or produced at the start of the industrial tech level, needing only "Drug production" as a prerequisite.
+
+[h2]How to use fibrocerium?[/h2]
+
+One pill of fibrocerium to heal one permanent injury or chronic condition ailment in 15 to 30 days.
+Fibrocerium will also provide partial and lesser enhancing effects of luciferium while it's active in the body:
+[list]
+    [*]Improved consciousness (+5%)
+    [*]Reduced pain (×90%)
+[/list]
+
+[b]Fibrocerium always causes an addiction[/b]. But it doesn't built-up tolerance and cannot cause an overdose.
+With the addiction comes the need to take fibrocerium. By default, the "Social drugs" drug policy will automatically order the colonist to take one pill of fibrocerium, if it's possible, below the 10% need mark, which is after 27 days of the previous take.
+It takes 45 days to overcome the addiction. If a pawn takes another pill of fibrocerium while under the addiction, it will progress by 33% (on the UI the addiction stops at 100%, so it will regress by 33% there).
+
+When a pawn stops taking pills of fibrocerium, and the need comes to 0%, then the withdrawal phase will start. Below is the list of withdrawal symptoms:
+[list]
+    [*]Impaired consciousness (90% max)
+    [*]Serious pain (+15%, normally comes with −10 mood penalty)
+    [*]Increased Social Fight Chance (+200%)
+[/list]
+[b]The withdrawal phase will end after 15 days[/b] but can last longer if several fibrocerium pills were taken in a short time.
+
+[h2]Alternatives to fibrocerium[/h2]
+
+A healer mech serum or a resurrector mech serum. Acquired as a reward for performing quests or found in ancient shrines, they will restore missing organs and eliminate almost all health problems. A healer mech serum will only heal the most severe condition.
+
+With the Ideology DLC, it's possible to research "Biosculpting" and "Bioregeneration", then using the biosculpter pod's bioregeneration cycle to heal one scar, old wound or one of the following ailments: artery blockage, asthma, bad back, blindness, cataract, frail, and hearing loss. It does not heal Alzheimer's, dementia, or carcinoma though. It will also restore all of the following body parts: eyes, ears, nose, tongue, fingers, and toes.
+Biosculpter pod's bioregeneration cycle costs 5 nutrition and 2 glitterworld medicine. The pawn will be suspended in the pod and unavailable for 8 to 25 days.
+
+With the Biotech DLC, it's possible to research "Xenogenetics", "Gene processor", and "Archogenetics", then using the gene assembler and gene bank to create a xenogerm of the scarless archite genepack. The scarless archite genepack is randomly acquired through trade from faction bases or exotic goods traders at a base market value of 100 silver but with the added value on the number and specific genes inside. Creating a xenogerm with an archite genepack require one archite capsule also acquired through trade at a market value of 700 silver.
+Once the xenogerm is created, it can be implanted into the pawn to give him or her the scarless gene. The xenogerm implantation costs 4 herbal medicine, or better, and causes a xenogerm coma, making the pawn unavailable, for 1 to 3 days.
+The scarless gene heals one scar, old wound or one of the chronic condition ailment: Alzheimer's, artery blockage, asthma, bad back, blindness, cataract, carcinoma, dementia, frail and hearing loss every 15 to 30 days, akin to luciferium or fibrocerium.
+
+With the Anomaly DLC, it's possible to research "Void provocation", "Psychophagy", and "Chronophagy". Chronophagy is a psychic ritual performed at a psychic ritual spot, invoking an insane Archotech machine-god who can distort reality, to mainly reduce the invoker's biological age, but also remove one of the invoker's scars and ailments such as: Alzheimer's, artery blockage, bad back, cataract, carcinoma, dementia, frail, hearing loss, if the age required to remove them is reached. It does not heal asthma or blindness though.
+Otherwise, in a rare event, a random pawn called "Creepjoiner", with the benefit of "Unnatural healing", can offer to join the colony. Unnatural healing uses dark psychic influence to stop bleeding, restore blood loss, and even heal significant injuries akin to a healer mech serum. But there is also 25% chance to replace one of the targeted pawn's arms with a flesh tentacle.
+
+[h2]About the mod development[/h2]
+
+Safe to install or remove with an ongoing save.
 Should be compatible with everything.
+
+This mod reproduces the permanent wounds removal effect of luciferium (HediffCompProperties_HealPermanentWounds).
+Since version 1.1.0 of RimWorld, the effect also removes all chronic conditions ailments, which was not the original objective of this mod. To compensate I slightly increased the cost and added a long but mild withdrawal phase.
+
+[url=https://github.com/bfusil/scar_removal_drug]Github[/url] for this mod.
+If you prefer the old 1.3 version, it's available [url=https://github.com/bfusil/scar_removal_drug/releases]here[/url]. It works with the last version of RimWorld.
+
+[h2]My other mods[/h2]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2203129101]Harvest Every Body Parts[/url]
