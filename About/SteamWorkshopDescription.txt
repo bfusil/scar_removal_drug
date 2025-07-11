@@ -10,7 +10,7 @@ Fibrocerium can be bought from faction bases and exotic goods traders for a mark
 
 Research "Fibrocerium production" (600 research points, behind "Drug production").
 A pill of fibrocerium is made with 1 luciferium, 2 glitterworld medicine and 10 neutroamines at a drug lab production bench with a minimum skilled colonist of 3 in intellectual and crafting.
-The market value of those products is 230 silver (70 for luciferium, 100 for glitterworld medicine, and 60 for twelve neutroamines), but the trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is [b]322 silver[/b]. That's the cost of fibrocerium, [b]when produced[/b], to heal one permanent injury or chronic condition ailment.
+The market value of those products is 230 silver (70 for luciferium, 100 for glitterworld medicine, and 60 for ten neutroamines), but the trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is [b]322 silver[/b]. That's the cost of fibrocerium, [b]when produced[/b], to heal one permanent injury or chronic condition ailment.
 
 It's a quick way to heal scar, old wound and chronic conditions ailments. It can be bought at any moment or produced at the start of the industrial tech level, needing only "Drug production" as a prerequisite.
 
