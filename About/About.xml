@@ -2,12 +2,14 @@
 <ModMetaData>
   <name>Scar Removal Drug</name>
   <author>Pikes</author>
+  <url></url>
   <supportedVersions>
 	<li>1.1</li>
 	<li>1.2</li>
 	<li>1.3</li>
 	<li>1.4</li>
 	<li>1.5</li>
+	<li>1.6</li>
   </supportedVersions>
   <packageId>Pikes.ScarRemovalDrug</packageId>
   <description><![CDATA[<b>A simple mod adding a new drug for healing permanent injuries or chronic conditions ailments after some time.</b>
@@ -22,7 +24,7 @@ Fibrocerium can be bought from faction bases and exotic goods traders for a mark
 
 Research "Fibrocerium production" (600 research points, behind "Drug production").
 A pill of fibrocerium is made with 1 luciferium, 2 glitterworld medicine, and 10 neutroamines at a drug lab production bench with a minimum skilled colonist of 3 in intellectual and crafting.
-The market value of those products is 230 silver (70 for luciferium, 100 for glitterworld medicine, and 60 for twelve neutroamines), but the trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is <b>322 silver</b>. That's the cost of fibrocerium, <b>when produced</b>, to heal one permanent injury or chronic condition ailment.
+The market value of those products is 230 silver (70 for luciferium, 100 for glitterworld medicine, and 60 for ten neutroamines), but the trade value, with the 140% modifier and a colonist's Trade Price Improvement stat at 100%, is <b>322 silver</b>. That's the cost of fibrocerium, <b>when produced</b>, to heal one permanent injury or chronic condition ailment.
 
 It's a quick way to heal scar, old wound and chronic conditions ailments. It can be bought at any moment or produced at the start of the industrial tech level, needing only "Drug production" as a prerequisite.
 
@@ -48,6 +50,8 @@ When a pawn stops taking pills of fibrocerium, and the need comes to 0%, then th
 Safe to install or remove with an ongoing save.
 Should be compatible with everything.]]>
   </description>
+  <modIconPath IgnoreIfNoMatchingField="True"></modIconPath>
+  <modDependencies></modDependencies>
   <loadAfter>
     <li>Ludeon.RimWorld</li>
   </loadAfter>
